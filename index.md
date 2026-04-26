@@ -15,12 +15,6 @@ layout: default
   </p>
 </header>
 <head>
-<header>
-  <p class="eyebrow fade-up">COMP 110 · EX09 · Course Improvement Analysis</p>
-  <h1 class="fade-up">Does <em>Prior Experience</em> Shape<br>How Hard COMP110 Feels?</h1>
-  <p class="subtitle fade-up">An analysis of anonymized COMP110 survey data · Spring 2026</p>
-  <p class="subtitle fade-up" style="margin-top: 0.5rem; font-size: 0.9rem; opacity: 0.75;">Muhammad Khan &amp; Avi Tikoo</p>
-</header>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
